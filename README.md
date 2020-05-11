@@ -1,3 +1,4 @@
+###ABSTRACT SUBMISSION
 PROBLEM: An android app to build to sumarise and manage you daily expenditures along with your income.
 ##SOLUTION: An user friendly and easy to use app to be made.
 ## App will have following basic Features:
@@ -8,7 +9,7 @@ PROBLEM: An android app to build to sumarise and manage you daily expenditures a
 - can extract the expenses on a pdf format.
 
 # Team Details:
--Team Name: CODE_WARRIORS
+Team Name: CODE_WARRIORS
 ## Team members :
 [Utsav Raj](https://github.com/rajutsav1234) 20194205
 
