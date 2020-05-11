@@ -14,8 +14,10 @@ SOLUTION: An user friendly and easy to use app to be made.
 -A loan feature can be introduced in this app maybe in future.
 
 ## Tech Stack:
+-
 
 ##Libraries:
+-
 
 # Team Details:
 Team Name: CODE_WARRIORS
