@@ -10,10 +10,10 @@ PROBLEM: An android app to build to sumarise and manage you daily expenditures a
 # Team Details:
 -Team Name: CODE_WARRIORS
 ## Team members :
--[Utsav Raj](https://github.com/rajutsav1234) 20194205
--
--
--
+[Utsav Raj](https://github.com/rajutsav1234) 20194205
+
+
+
 
 Project Github Link:
--[Money EXpenditure APP](https://github.com/rajutsav1234/MoneyExpenditureApp)
+[Money EXpenditure APP](https://github.com/rajutsav1234/MoneyExpenditureApp)
