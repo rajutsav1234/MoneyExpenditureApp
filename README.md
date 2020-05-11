@@ -1,4 +1,4 @@
-#PROBLEM: An android app to build to sumarise and manage you daily expenditures along with your income.
+PROBLEM: An android app to build to sumarise and manage you daily expenditures along with your income.
 ##SOLUTION: An user friendly and easy to use app to be made.
 ## App will have following basic Features:
 - Track daily expenditures.
@@ -15,5 +15,5 @@
 -
 -
 
-#Project Github Link:
+Project Github Link:
 -[Money EXpenditure APP](https://github.com/rajutsav1234/MoneyExpenditureApp)
