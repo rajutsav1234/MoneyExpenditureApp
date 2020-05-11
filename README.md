@@ -28,5 +28,5 @@ Team Name: CODE_WARRIORS
 
 
 
-Project Github Link:
+Project Github  Link:
 [Money EXpenditure APP](https://github.com/rajutsav1234/MoneyExpenditureApp)
