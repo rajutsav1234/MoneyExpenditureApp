@@ -1,6 +1,6 @@
-###ABSTRACT SUBMISSION
+ABSTRACT SUBMISSION
 PROBLEM: An android app to build to sumarise and manage you daily expenditures along with your income.
-##SOLUTION: An user friendly and easy to use app to be made.
+SOLUTION: An user friendly and easy to use app to be made.
 ## App will have following basic Features:
 - Track daily expenditures.
 - compare your expenditures vs income.
