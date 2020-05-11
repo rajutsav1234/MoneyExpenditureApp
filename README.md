@@ -9,6 +9,14 @@ SOLUTION: An user friendly and easy to use app to be made.
 - pie charts to show percentage of different expenses.
 - can extract the expenses on a pdf format.
 
+##Future Scope of this porduct:
+-If the concept of this app can be adopted by government to track distribution of the expenditures of thier budget.
+-A loan feature can be introduced in this app maybe in future.
+
+## Tech Stack:
+
+##Libraries:
+
 # Team Details:
 Team Name: CODE_WARRIORS
 ## Team members :
